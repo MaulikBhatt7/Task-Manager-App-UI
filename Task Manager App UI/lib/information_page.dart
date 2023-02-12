@@ -154,7 +154,7 @@ class _InformationPageState extends State<InformationPage> {
                               Container(
                                 child: ClipOval(
                                   child: Image.network(
-                                    "https://tse1.mm.bing.net/th?id=OIP.EYHt8f5tqkTU5l6szP5XbQHaE8&pid=Api&rs=1&c=1&qlt=95&w=182&h=121",
+                                    "https://tse2.mm.bing.net/th?id=OIP.2DV77Sp8tNBq1CMVaGyG2AHaEu&pid=Api&P=0",
                                     fit: BoxFit.cover,
                                   ),
                                 ),
