@@ -159,7 +159,6 @@ class _DetailPageState extends State<DetailPage> {
                     )),
                     Expanded(
                       child: ScrollSnapList(
-                        focusToItem: (p0) => p0,
                         itemBuilder: (context, index) {
                           return Container(
                             width: MediaQuery.of(context).size.width - 45,
